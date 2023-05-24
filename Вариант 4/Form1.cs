@@ -23,7 +23,7 @@ namespace Вариант_4
             string path = "Sets.txt";
             try
             {
-                if ( File.Exists(path) && File.ReadAllText(path).Length != 0 )
+                if ( File.Exists(path) && File.ReadAllText(path).Length != 0 && File.ReadAllLines(path).Length==3)
                 {
                     foreach ( string line in File.ReadAllLines(path) )
                         sets.Add(line.Split(new char [ ] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries));
