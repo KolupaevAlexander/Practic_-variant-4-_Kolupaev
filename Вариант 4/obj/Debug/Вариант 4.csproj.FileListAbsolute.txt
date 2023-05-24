@@ -1,0 +1,10 @@
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\bin\Debug\Вариант 4.exe.config
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\bin\Debug\Вариант 4.exe
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\bin\Debug\Вариант 4.pdb
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\obj\Debug\Вариант 4.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\obj\Debug\Вариант_4.Form1.resources
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\obj\Debug\Вариант_4.Properties.Resources.resources
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\obj\Debug\Вариант 4.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\obj\Debug\Вариант 4.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\obj\Debug\Вариант 4.exe
+C:\Users\305-8\Desktop\Колупаев\Вариант 4\obj\Debug\Вариант 4.pdb
